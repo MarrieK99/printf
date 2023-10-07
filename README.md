@@ -6,7 +6,7 @@ Description
 
 
 The printf function sends formatted output to stdout.
-Team project created by  Fiona Githaiga & Michelle Wangari
+Team project created by  Marrie Karanja & Imani Kingsley
 
  _printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator
 
